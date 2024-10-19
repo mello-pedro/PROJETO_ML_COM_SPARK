@@ -6,9 +6,9 @@
 <br>
 <br>
 > É necessário que sejam satisfeitas as seguintes etapas:
--  Feature engineering;
--  Criação do pipeline;
--  Treino/avaliação do modelo desenvolvido.
+- Feature engineering;
+- Criação do pipeline;
+- Treino/avaliação do modelo desenvolvido.
 <br>
 <br>
 > Para tanto, deve ser utilizado o Data Set "Credit Card Fraud Detection", tendo como principal objetivo prever com a maior acurácia possível o target, que neste caso é a variável binária "Class".
